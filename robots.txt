@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://afressancourt.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://aft.network/sitemap.xml
