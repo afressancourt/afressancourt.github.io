@@ -1,25 +1,26 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
-  align: right
+  align: left
   image: AFressancourt.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a principal research engineer in Huawei's European research center in Paris, where I am part of the IP protocol team. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My current research focuses on improving networks' operations in the distributed execution of AI/LLM workloads. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Along the years, my goal has constantly been to improve the way data networks deal with future networking use cases, especially to support the increasingly demanding quality of service requirements of real-time applications (AI, video, gaming...) and to enhance networks' intrinsic security, privacy and resiliency properties. 
+
+I am actively involved in the IETF, where I serve as a member and reviewer of the Internet area directorate.
+
+Prior to this, I was a R&D engineer in Worldline and a member of Atos's Scientific Community where I was leading the networking research track. I hold a PhD from Télécom Paristech where I studied the resiliency of inter-data center network connectivity. I also graduated from Ecole Centrale Paris (ECP) and from the Royal Institute of Technology in Stockholm (KTH).
