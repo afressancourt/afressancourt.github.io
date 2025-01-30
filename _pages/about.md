@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a principal research engineer in Huawei's European research center in Paris, where I am part of the IP protocol team. 
+I am a principal research engineer in Huawei's European research center in Paris, where I am part of [the IP protocols team](https://ip-protocols.github.io). 
 
 My current research focuses on improving networks' operations in the distributed execution of AI/LLM workloads. 
 
