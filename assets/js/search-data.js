@@ -9,12 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-patents",
-          title: "Patents",
-          description: "Patents I have filled.",
+  },{id: "nav-about",
+          title: "About",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/patents/";
+            window.location.href = "/";
+          },
+        },{id: "nav-my-cv",
+          title: "My CV",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
           },
         },{id: "nav-publications",
           title: "Publications",
@@ -23,19 +30,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-patents",
+          title: "Patents",
+          description: "Patents I have filled.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/patents/";
+          },
         },{id: "nav-repositories",
           title: "Repositories",
           description: "This page presents some repositories for tools I have built.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
-          },
-        },{id: "nav-my-cv",
-          title: "My CV",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
           },
         },{id: "post-a-post-with-image-galleries",
       
