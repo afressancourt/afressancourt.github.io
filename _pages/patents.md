@@ -4,7 +4,7 @@ permalink: /patents/
 title: Patents
 description: Patents I have filled.
 nav: true
-nav_order: 2
+nav_order: 4
 ---
 
 <!-- _pages/patents.md -->
