@@ -15,6 +15,6 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography --query @*[type=publication]* %}
+	{% bibliography --query @*[type=publication]* %}
 
 </div>
